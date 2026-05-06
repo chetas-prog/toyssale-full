@@ -2,32 +2,32 @@
   "loaderEnabled": false,
   "loaderLogo": "/img/flipkart-logo.webp",
   "thankyouLogo": "/img/flipkart-logo.webp",
-  "facebookPixelId": "942369898512095",
+  "facebookPixelId": "2449370515508478",
   "cashfreePayment": false,
   "phonepeMode": 2,
   "phonepeMode_comment": "1 = native, 2 = intent",
   "upiOptions": [
     {
       "paymentName": "PhonePe",
-      "link": "phonepe://pay?pa=cc.9181538395923467@axisbank&pn=Merchant&cu=INR",
+      "link": "phonepe://pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
     },
     {
       "paymentName": "Paytm",
-      "link": "paytmmp://pay?pa=cc.9181538395923467@axisbank&pn=Merchant&cu=INR",
+      "link": "paytmmp://pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/pay.webp",
       "enabled": true
     },
     {
       "paymentName": "Google Pay",
-      "link": "tez://upi/pay?pa=cc.9181538395923467@axisbank&pn=Merchant&cu=INR",
+      "link": "tez://upi/pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/gpay.jpg",
       "enabled": true
     },
     {
       "paymentName": "Other UPI",
-      "link": "upi://pay?pa=cc.9181538395923467@axisbank&pn=Merchant&cu=INR",
+      "link": "upi://pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/upi.webp",
       "enabled": true
     }
